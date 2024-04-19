@@ -1,0 +1,13 @@
+---
+title: "How to Contribute"
+---
+
+> last modified 04/12/2024
+
+:::{.callout-warning title="Note"}
+
+The SWFSC Openscience is housed under the SWFSC Github Enterprise and the contribution is restricted to the SWFSC Github enterprise account holder
+:::
+
+### Minor Updates - It's easy! 
+If the update is simply gramatical/spelling errors which would not affect the content or context of the page, contributor can edit directly on the Github page.

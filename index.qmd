@@ -1,0 +1,12 @@
+---
+title: "SWFSC Open Science Page"
+---
+
+Mirroring the culture of "Open Source," [Open Science](https://nmfs-opensci.github.io/) advocates for a framework of principles and practices that make scientific research accessible to all.  It is a movement that encourages collaboration and knowledge sharing.
+
+Various tools and best practices have been developed to support the open science culture, enabling scientists to work more openly and reproducibly.
+
+[NMFS Openscapes](https://nmfs-openscapes.github.io/) is a program that offers team-based training opportunities, empowering the NMFS staff with the skills and tools to contribute to the open science landscape effectively. 
+
+This page serves as a collaborative space for the SWFSC participants of the NMFS Openscapes to share knowledge, insights and experiences gained from the program to foster inclusive and collaborative culture at SWFSC. 
+

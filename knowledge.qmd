@@ -1,0 +1,11 @@
+---
+title: "Knowledge Sharing"
+---
+> last modified 04/12/2024
+
+## Tutorials and Workshop Materials
+
+* [Posit R Webinar Series](https://github.com/nmfs-opensci/posit-webinar-series
+)
+
+* [CoastWatch Geospatial Data Tutorials](https://github.com/coastwatch-training/CoastWatch-Tutorials)

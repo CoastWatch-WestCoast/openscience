@@ -1,0 +1,11 @@
+---
+title: "User Communities"
+---
+
+> last modified 04/12/2024
+
+## NMFS User Group
+
+* NMFS R User Group
+* NMFS Python User Group 
+* [NMFS Openscapes](https://nmfs-openscapes.github.io/)

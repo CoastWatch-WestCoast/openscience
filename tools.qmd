@@ -1,0 +1,28 @@
+---
+title: "Tools/Software"
+---
+
+> last modified 04/12/2024
+
+## Git & Github
+
+* [Guidance and Best Practices for NMFS Users](https://nmfs-opensci.github.io/GitHub-Guide/)
+* [Github Repository Templates](https://github.com/orgs/nmfs-opensci/repositories?q=&type=template&language=&sort=)
+
+## Scientific Computing
+* [R - Best Coding Practice](https://bookdown.org/content/d1e53ac9-28ce-472f-bc2c-f499f18264a3/)
+* [Python - PyOpenSci is resource for building scientific packages](https://www.pyopensci.org/)
+
+## Cloud Computing
+
+* JupyterHub - Cloud-based scientific computing platform
+
+## Publishing Tools
+
+* [Shiny](https://shiny.posit.co/) - An open-source web-app for data science
+* [Quarto](https://quarto.org/) - An open-source scientific and technical publishing system
+
+## Other Resources
+
+* [NMFS Resource Book](https://nmfs-opensci.github.io/ResourceBook/) - A Compilation of Resources and Experience to Support for Open Science Communities in NOAA Fisheries
+* [Markdown Basics](https://quarto.org/docs/authoring/markdown-basics.html)

@@ -1,0 +1,41 @@
+project:
+  type: website
+  title: "SWFSC Open Science"
+website:
+  title: "SWFSC Open Science"
+  site-url: https://swfsc.github.io/opeanscience
+  repo-url: https://github.com/swfsc/openscience
+  repo-actions: [issue]
+  navbar:
+    background: primary
+    left:
+      - href: index.qmd
+        text: Home
+      - href: help.qmd
+        text: Contribute
+
+
+    right:
+      - icon: github
+        href: https://github.com/swfsc/openscience
+  sidebar:
+    style: "docked"
+    search: true
+    contents:
+      - index.qmd
+      - tools.qmd
+      - groups.qmd
+      - knowledge.qmd
+  page-navigation: true
+
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+#https://bootswatch.com/
+
+
