@@ -1,0 +1,137 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "SWFSC Open Science Page",
+    "section": "",
+    "text": "Mirroring the culture of “Open Source,” Open Science advocates for a framework of principles and practices that make scientific research accessible to all. It is a movement that encourages collaboration and knowledge sharing.\nVarious tools and best practices have been developed to support the open science culture, enabling scientists to work more openly and reproducibly.\nNMFS Openscapes is a program that offers team-based training opportunities, empowering the NMFS staff with the skills and tools to contribute to the open science landscape effectively.\nThis page serves as a collaborative space for the SWFSC participants of the NMFS Openscapes to share knowledge, insights and experiences gained from the program to foster inclusive and collaborative culture at SWFSC.",
+    "crumbs": [
+      "Home",
+      "SWFSC Open Science Page"
+    ]
+  },
+  {
+    "objectID": "help.html",
+    "href": "help.html",
+    "title": "How to Contribute",
+    "section": "",
+    "text": "last modified 04/12/2024\n\n\n\n\n\n\n\nNote\n\n\n\nThe SWFSC Openscience is housed under the SWFSC Github Enterprise and the contribution is restricted to the SWFSC Github enterprise account holder\n\n\n\nMinor Updates - It’s easy!\nIf the update is simply gramatical/spelling errors which would not affect the content or context of the page, contributor can edit directly on the Github page."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "tools.html",
+    "href": "tools.html",
+    "title": "Tools/Software",
+    "section": "",
+    "text": "last modified 04/12/2024",
+    "crumbs": [
+      "Home",
+      "Tools/Software"
+    ]
+  },
+  {
+    "objectID": "tools.html#git-github",
+    "href": "tools.html#git-github",
+    "title": "Tools/Software",
+    "section": "Git & Github",
+    "text": "Git & Github\n\nGuidance and Best Practices for NMFS Users\nGithub Repository Templates",
+    "crumbs": [
+      "Home",
+      "Tools/Software"
+    ]
+  },
+  {
+    "objectID": "tools.html#scientific-computing",
+    "href": "tools.html#scientific-computing",
+    "title": "Tools/Software",
+    "section": "Scientific Computing",
+    "text": "Scientific Computing\n\nR - Best Coding Practice\nPython - PyOpenSci is resource for building scientific packages",
+    "crumbs": [
+      "Home",
+      "Tools/Software"
+    ]
+  },
+  {
+    "objectID": "tools.html#cloud-computing",
+    "href": "tools.html#cloud-computing",
+    "title": "Tools/Software",
+    "section": "Cloud Computing",
+    "text": "Cloud Computing\n\nJupyterHub - Cloud-based scientific computing platform",
+    "crumbs": [
+      "Home",
+      "Tools/Software"
+    ]
+  },
+  {
+    "objectID": "tools.html#publishing-tools",
+    "href": "tools.html#publishing-tools",
+    "title": "Tools/Software",
+    "section": "Publishing Tools",
+    "text": "Publishing Tools\n\nShiny - An open-source web-app for data science\nQuarto - An open-source scientific and technical publishing system",
+    "crumbs": [
+      "Home",
+      "Tools/Software"
+    ]
+  },
+  {
+    "objectID": "tools.html#other-resources",
+    "href": "tools.html#other-resources",
+    "title": "Tools/Software",
+    "section": "Other Resources",
+    "text": "Other Resources\n\nNMFS Resource Book - A Compilation of Resources and Experience to Support for Open Science Communities in NOAA Fisheries\nMarkdown Basics",
+    "crumbs": [
+      "Home",
+      "Tools/Software"
+    ]
+  },
+  {
+    "objectID": "groups.html",
+    "href": "groups.html",
+    "title": "User Communities",
+    "section": "",
+    "text": "last modified 04/12/2024",
+    "crumbs": [
+      "Home",
+      "User Communities"
+    ]
+  },
+  {
+    "objectID": "groups.html#nmfs-user-group",
+    "href": "groups.html#nmfs-user-group",
+    "title": "User Communities",
+    "section": "NMFS User Group",
+    "text": "NMFS User Group\n\nNMFS R User Group\nNMFS Python User Group\nNMFS Openscapes",
+    "crumbs": [
+      "Home",
+      "User Communities"
+    ]
+  },
+  {
+    "objectID": "knowledge.html",
+    "href": "knowledge.html",
+    "title": "Knowledge Sharing",
+    "section": "",
+    "text": "last modified 04/12/2024",
+    "crumbs": [
+      "Home",
+      "Knowledge Sharing"
+    ]
+  },
+  {
+    "objectID": "knowledge.html#tutorials-and-workshop-materials",
+    "href": "knowledge.html#tutorials-and-workshop-materials",
+    "title": "Knowledge Sharing",
+    "section": "Tutorials and Workshop Materials",
+    "text": "Tutorials and Workshop Materials\n\nPosit R Webinar Series\nCoastWatch Geospatial Data Tutorials",
+    "crumbs": [
+      "Home",
+      "Knowledge Sharing"
+    ]
+  }
+]
